@@ -6,7 +6,7 @@ This repository contains scripts and resources from a rotation project focused o
 
 • Elucidating the microbiome colonizing the parchment fragments.
 
-The project leverages shotgun metagenomics data generated from an Illumina MiniSeq instrument. The dataset includes:
+The project leverages shotgun data generated from an Illumina MiniSeq instrument. The dataset includes:
 
 • Ten non-destructively sampled parchments (brush/rubbings).
 
